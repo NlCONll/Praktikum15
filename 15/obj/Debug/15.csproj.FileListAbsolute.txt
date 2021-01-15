@@ -1,0 +1,11 @@
+D:\VisualStudio\15\bin\Debug\15.exe.config
+D:\VisualStudio\15\bin\Debug\15.exe
+D:\VisualStudio\15\bin\Debug\15.pdb
+D:\VisualStudio\15\obj\Debug\15.csprojAssemblyReference.cache
+D:\VisualStudio\15\obj\Debug\_15.Form1.resources
+D:\VisualStudio\15\obj\Debug\_15.Properties.Resources.resources
+D:\VisualStudio\15\obj\Debug\15.csproj.GenerateResource.cache
+D:\VisualStudio\15\obj\Debug\15.csproj.CoreCompileInputs.cache
+D:\VisualStudio\15\obj\Debug\15.exe
+D:\VisualStudio\15\obj\Debug\15.pdb
+D:\VisualStudio\15\obj\Debug\_15.Form2.resources
